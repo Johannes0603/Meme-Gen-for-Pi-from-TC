@@ -70,3 +70,31 @@ To add your project to the list follow the instructions [here](/README.md)
 | QRcodePay | A Tool for Pioneers to make payment easily by scanning QRcode | Ecosystem Tools | NextJS/NodeJS/Firebase/Javascript | [qrcodepay](https://github.com/pi-apps/qrcodepay) | pi://brainstorm.pi/project/63f8c8069326fc9c895bedba |  [pi://pi-qrcode.vercel.app/](pi://pi-qrcode.vercel.app/) | (When available) |
 | Voice Of Pi | Voice Of Pi is a Social Finance platform based on the world’s most accessible blockchain: Pi Network. | Social Media | JavaScript/Html/Bootstrap, Express.js | [voice-of-pi](https://github.com/pi-apps/voice-of-pi) | pi://brainstorm.pi/project/63bce50944c7690233094b2d | https://pivoice.app | (When available) |
 | WePiSharp | Tool automatic create A2U for WePi Social Network (Save user's content on PiNetwork), using [pi-csharp](https://github.com/pi-apps/pi-csharp) | Social Media | C# | [wepisharp](https://github.com/pi-apps/wepisharp)| pi://brainstorm.pi/project/63d8461017a58d2fbcb9e8b5 |  [WePi on Testnet](https://demo.wepi.social/) | [WePi Social Network Mainnet](https://wepi.social/) |
+
+
+
+
+
+
+
+Hi,
+
+
+me and my Crew from Germany want to create 1 or more Apps for Pios, we already use the other applications like Pi app and Browser etc. 
+So what we want to do is an App for modern Raw food recipes,
+a Timing Manager, a Meme creator  and other Stuff from us.
+As coding Language we will use Kotlin and Swift.
+Is this okay?
+If u want u can look my or other Profiles here:
+
+https://github.com/just1984
+https://github.com/xxxmarxxx
+https://github.com/mbrueck
+https://github.com/GoekhanK
+https://github.com/sergej47
+https://github.com/GitteHeino
+https://github.com/Soheil-a1
+
+hope for fast answer 
+
+cu
